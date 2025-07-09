@@ -2,7 +2,7 @@
 
 This is a web application crawling Linkedin data about a person and customizes an ice breaker with them.
 
-# # Environment Variables
+# Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
 
